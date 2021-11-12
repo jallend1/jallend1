@@ -4,12 +4,14 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![React](http://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php)
 ![Nextdotjs](http://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Nextdotjs)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![JSON](http://img.shields.io/badge/-Json-000000?style=for-the-badge&logo=Json)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-000000?style=for-the-badge&logo=Nodedotjs)
 ![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=for-the-badge&logo=WordPress)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 
 ---
