@@ -41,7 +41,8 @@
 - [![Gmail Badge](https://img.shields.io/badge/jallend1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jallend1@gmail.com)](mailto:jallend1@gmail.com) - Let's engage off social media!
 
 
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jallend1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jallend1&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
