@@ -31,6 +31,8 @@
 - 📚 : Working at King County Library System
 - 🕵️‍♂️ : Interested in all things web 🔗, learning new things 💡, and cats 🐱
 - 💬 : Contact me over web design 🎨, spicy Star Trek opinions 🖖
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jallend1&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ## Engage
 
@@ -39,11 +41,6 @@
 - [![Twitter Badge](https://img.shields.io/badge/-Jason_Allen-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cornerofjustice)](https://twitter.com/cornerofjustice) - See my Tweets about the web, Star Trek, and my cats
 
 - [![Gmail Badge](https://img.shields.io/badge/jallend1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jallend1@gmail.com)](mailto:jallend1@gmail.com) - Let's engage off social media!
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jallend1&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--
 **jallend1/jallend1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
