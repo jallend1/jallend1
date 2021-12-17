@@ -19,10 +19,12 @@
 
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows)
 ![Netlify](http://img.shields.io/badge/-Netlify-000000?style=for-the-badge&logo=Netlify)
 ![Figma](http://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma)
 ![Firebase](http://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=Firebase)
 ![Materialui](http://img.shields.io/badge/-Materialui-000000?style=for-the-badge&logo=Materialui)
+
 
 ---
 ## Quick Hits ⚡
