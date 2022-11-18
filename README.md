@@ -25,6 +25,7 @@
 ![Firebase](http://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=Firebase)
 ![Materialui](http://img.shields.io/badge/-Materialui-000000?style=for-the-badge&logo=Materialui)
 
+---
 [![@jallend1's Holopin board](https://holopin.me/jallend1)](https://holopin.io/@jallend1)
 
 ---
