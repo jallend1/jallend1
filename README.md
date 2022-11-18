@@ -26,6 +26,7 @@
 ![Materialui](http://img.shields.io/badge/-Materialui-000000?style=for-the-badge&logo=Materialui)
 
 ---
+## Some Fun Holopin Badges 🎉
 [![@jallend1's Holopin board](https://holopin.me/jallend1)](https://holopin.io/@jallend1)
 
 ---
